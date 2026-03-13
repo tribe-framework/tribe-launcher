@@ -10,3 +10,5 @@
 *.code-workspace
 sftp-config.json
 .DS_Store
+dist/
+*.log
